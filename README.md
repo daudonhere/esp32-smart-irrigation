@@ -12,6 +12,8 @@ This project demonstrates basic **embedded automation logic** and serves as a fo
 
 ---
 
+![Project Screenshot](./screenshoot.png)
+
 ## Hardware Requirements
 
 * ESP32 Development Board  
